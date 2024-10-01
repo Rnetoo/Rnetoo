@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=E+aí+!+Me+chamo+Rômulo,+desenvolvedor+front-end,+tudo+certo?=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-# E aí! Me chamo Rômulo, tudo certo?
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=E+aí!+Tudo+certo?+Me+chamo+Rômulo;Dev+Front-end!)](https://git.io/typing-svg)
 
 ## Sobre:
 
-Tenólogo em design de interiores, Chef Pizzaiolo e amante da tecnologia.
+### 💻 Cursando Análise e Desenvolvimento de Sistemas
 
-### Cursando Análise e Desenvolvimento de Sistemas
+### 🏡 Tenólogo em design de interiores, modelagem 3D e renderização.
+### 🍕 Chef Pizzaiolo e amante de vinhos 🍷
+### 🎼 Colecionador de Vinil
 
 Tenho profundo interesse em Front-end e tudo mais que a criatividade e a tecnologia possam permitir.
 
@@ -23,7 +23,7 @@ Tenho profundo interesse em Front-end e tudo mais que a criatividade e a tecnolo
 
 ## 👋 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/r%C3%B4mulo-pereira-de-souza-neto/)## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/r%C3%B4mulo-pereira-de-souza-neto/)
 
 <!--
 **Rnetoo/Rnetoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
