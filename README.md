@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&color=270055&center=true&vCenter=true&width=435&lines=E+a%C3%AD%2C+tudo+certo+meu+chapa!%3F;Meu+nome+%C3%A9+R%C3%B4mulo!;An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=25&duration=4000&pause=500&color=543195&vCenter=true&width=435&lines=E+a%C3%AD%2C+tudo+certo!%3F;Me+chamo+R%C3%B4mulo!;Full+Stack+em+desenvolvimento)](https://git.io/typing-svg)
 
 ## Sobre:
 
@@ -8,34 +8,81 @@
 ### 🍕 Chef Pizzaiolo e amante de vinhos 🍷
 ### 🎼 Colecionador de Vinil
 
-Tenho profundo interesse em Front-end e tudo mais que a criatividade e a tecnologia possam permitir.
+### Tenho profundo interesse em desenvolvimento de aplicativos e soluções para o cotidiano e tudo mais que a criatividade e a tecnologia possam permitir.
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades em desenvolvimento
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img
+    align="left"
+    alt="html5"
+    title="html5"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
+          
+          
 
-## Aprendendo
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-192436?style=for-the-badge&logo=react)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<img
+    align="left"
+    alt="css3"
+    title="css3"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+          
 
+<img
+    align="left"
+    alt="js"
+    title="js"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+          
+<img
+    align="left"
+    alt="react"
+    title="react"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
+
+
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+/>
+
+
+<img
+    align="left"
+    alt="postgresql"
+    title="postgresql"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+/>
+
+
+<img
+    align="left"
+    alt="git"
+    title="git"
+    width="30px"
+    style="paddin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+/>
+
+\
 
 ## 👋 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/r%C3%B4mulo-pereira-de-souza-neto/)
-
-<!--
-**Rnetoo/Rnetoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
