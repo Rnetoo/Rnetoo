@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=E+aí!+Tudo+certo?+Me+chamo+Rômulo;Dev+Front-end!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=800&color=270055&center=true&vCenter=true&width=435&lines=E+a%C3%AD%2C+tudo+certo+meu+chapa!%3F;Meu+nome+%C3%A9+R%C3%B4mulo!;An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 ## Sobre:
 
