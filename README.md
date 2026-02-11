@@ -5,7 +5,6 @@
 ### 💻 Cursando Análise e Desenvolvimento de Sistemas
 
 ### 🏡 Tenólogo em design de interiores, modelagem 3D e renderização.
-### 🍕 Chef Pizzaiolo e amante de vinhos 🍷
 ### 🎼 Colecionador de Vinil
 
 ### Tenho profundo interesse em desenvolvimento de aplicativos e soluções para o cotidiano e tudo mais que a criatividade e a tecnologia possam permitir.
