@@ -5,9 +5,9 @@
 ### 💻 Cursando Análise e Desenvolvimento de Sistemas
 
 ### 🏡 Tenólogo em design de interiores, modelagem 3D e renderização.
-### 🎼 Colecionador de Vinil
 
-### Tenho profundo interesse em desenvolvimento de aplicativos e soluções para o cotidiano e tudo mais que a criatividade e a tecnologia possam permitir.
+### Estudante de Tecnologia da Informação com foco em desenvolvimento de software e construção de soluções práticas para problemas do cotidiano.
+### Minha atuação está orientada a aprendizado estruturado, fundamentos sólidos e aplicação real de conceitos como arquitetura, automação e integração de sistemas. Busco evoluir tecnicamente com consistência, explorando ferramentas e práticas que permitam desenvolver soluções escaláveis, organizadas e sustentáveis.
 
 ## 🛠️ Habilidades em desenvolvimento
 
