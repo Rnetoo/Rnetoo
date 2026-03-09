@@ -40,13 +40,12 @@ Tenho interesse em **performance web, arquitetura de interfaces e experiência d
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rnetoo&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rnetoo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rnetoo&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rnetoo&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </p>
-
 ---
 
 # 🌐 Conecte-se comigo
