@@ -4,7 +4,9 @@
 
 ### 💻 Cursando Análise e Desenvolvimento de Sistemas
 
-### 🏡 Tenólogo em design de interiores, modelagem 3D e renderização.
+### Front-End
+
+### 🏡 Designer de interiores, modelador 3D e renderização.
 
 ### Estudante de Tecnologia da Informação com foco em desenvolvimento de software e construção de soluções práticas para problemas do cotidiano.
 ### Minha atuação está orientada a aprendizado estruturado, fundamentos sólidos e aplicação real de conceitos como arquitetura, automação e integração de sistemas. Busco evoluir tecnicamente com consistência, explorando ferramentas e práticas que permitam desenvolver soluções escaláveis, organizadas e sustentáveis.
