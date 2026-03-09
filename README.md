@@ -1,89 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=25&duration=4000&pause=500&color=543195&vCenter=true&width=435&lines=E+a%C3%AD%2C+tudo+certo!%3F;Me+chamo+R%C3%B4mulo!;Full+Stack+em+desenvolvimento)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tourney&size=28&duration=3500&pause=600&color=543195&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Rômulo+%F0%9F%91%8B;Front-End+Developer+in+progress;Construindo+interfaces+web+modernas)](https://git.io/typing-svg)
 
-## Sobre:
+---
 
-### 💻 Cursando Análise e Desenvolvimento de Sistemas
+# 👨‍💻 Rômulo Pereira
 
-### Front-End
+💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🌐 Focado em **desenvolvimento Front-End**  
+🎨 Background em **Design e modelagem 3D**
 
-### 🏡 Designer de interiores, modelador 3D e renderização.
+Atualmente desenvolvo projetos focados em **interfaces web modernas, responsivas e acessíveis**, aplicando boas práticas de desenvolvimento e organização de código.
 
-### Estudante de Tecnologia da Informação com foco em desenvolvimento de software e construção de soluções práticas para problemas do cotidiano.
-### Minha atuação está orientada a aprendizado estruturado, fundamentos sólidos e aplicação real de conceitos como arquitetura, automação e integração de sistemas. Busco evoluir tecnicamente com consistência, explorando ferramentas e práticas que permitam desenvolver soluções escaláveis, organizadas e sustentáveis.
+Tenho interesse em **performance web, arquitetura de interfaces e experiência do usuário**, buscando sempre evoluir tecnicamente através de projetos práticos.
 
-## 🛠️ Habilidades em desenvolvimento
+---
 
-<img
-    align="left"
-    alt="html5"
-    title="html5"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-          
-          
+# 🚀 Tecnologias
 
-<img
-    align="left"
-    alt="css3"
-    title="css3"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
-          
+<p align="left">
 
-<img
-    align="left"
-    alt="js"
-    title="js"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-          
-<img
-    align="left"
-    alt="react"
-    title="react"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 
+</p>
 
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-/>
+---
 
+# 📚 Atualmente estudando
 
-<img
-    align="left"
-    alt="postgresql"
-    title="postgresql"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
+- JavaScript moderno (ES6+)
+- Estruturação de interfaces web
+- Responsividade e layout moderno
+- Boas práticas de desenvolvimento Front-End
+- Performance e acessibilidade (A11y)
 
+---
 
-<img
-    align="left"
-    alt="git"
-    title="git"
-    width="30px"
-    style="paddin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
-/>
+# 📊 GitHub Stats
 
-\
+<p align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rnetoo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rnetoo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 👋 Conecte-se comigo
+---
+
+# 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/r%C3%B4mulo-pereira-de-souza-neto/)
+
+---
